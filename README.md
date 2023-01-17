@@ -2,7 +2,9 @@
 A simple library for handle HTML elements with JS
 
 ## Get the library
+```
 var app = new NylonApp("appName","parentID (optional)");
+```
 
 ## Create a element
 ```
