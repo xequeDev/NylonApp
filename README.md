@@ -17,6 +17,7 @@ var button = app.new("button");
 button.attribute("set","text","BUTTON");
 //["add" or "set","get","remove"]
 //["text","textContent","textEditable","html","allHtml","tag","HTMLAttribute"]
+//["value"]
 ```
 
 ## Add a event to element
